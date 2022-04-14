@@ -13,7 +13,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocqr&layout=compact&langs_count=7&theme=nord"/>
   </a>
 </div>
-<h2>Habilidades</h2>
+<h2>Skills</h2>
 <div style="display: inline_block">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
@@ -24,7 +24,7 @@
   <img align="center" alt="Spring" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
-## Contato
+## Contact
 <div> 
  <!--<a href="https://discord.com/channels/@me/746765804577488936" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>-->
   <a href="https://www.linkedin.com/in/diogocqr" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
