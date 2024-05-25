@@ -26,5 +26,6 @@ I have practical experience as a Full Stack Developer, proficient in integrating
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diogo%20Cerqueira-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diogocerq/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diogo%20Cerqueira-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diogocerq)
 [![Website](https://img.shields.io/badge/Website-www.diogocerqueira.dev.br-green?style=flat-square&logo=react)](https://www.diogocerqueira.dev.br)
+[![Discord](https://img.shields.io/badge/Discord-nwiry-5764e9?style=flat-square&logo=discord)](https://discord.com/users/746765804577488936)
