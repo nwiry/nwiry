@@ -23,10 +23,15 @@ I have practical experience as a Full Stack Developer, proficient in integrating
 - **Database Management:** <img src="https://github.com/devicons/devicon/raw/master/icons/dynamodb/dynamodb-original.svg" width="20"/> DynamoDB, <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" width="20"/> MySQL, <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" width="20"/> PostgreSQL
 - **API Integration:** RESTful APIs
 - **Version Control:** <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" width="20"/> Git, <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="20"/> GitHub, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="20"/> GitLab, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="20"/> BitBucket, etc.
-- **Cloud Platforms:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> Amazon Web Services (AWS), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="20"/> Google Cloud Platform (GCP), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="20"/> Microsoft Azure, etc.
-- **Cloud Computing & DevOps:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/> Docker, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="20"/> Kubernetes
+- **Cloud Computing & DevOps:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> Amazon Web Services (AWS), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="20"/> Google Cloud Platform (GCP), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="20"/> Microsoft Azure, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/> Docker, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="20"/> Kubernetes, etc
+- 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diogo%20Cerqueira-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diogocerq)
 [![Website](https://img.shields.io/badge/Website-www.diogocerqueira.dev.br-green?style=flat-square&logo=react)](https://www.diogocerqueira.dev.br)
 [![Discord](https://img.shields.io/badge/Discord-nwiry-5764e9?style=flat-square&logo=discord)](https://discord.com/users/746765804577488936)
+
+---
+
+[![Visualizar versão em português](https://img.shields.io/badge/🇧🇷%20Visualizar%20vers%C3%A3o%20em%20portugu%C3%AAs-blue?style=for-the-badge)](https://github.com/nwiry/nwiry/blob/main/README-PT_BR.md)
+
