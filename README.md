@@ -6,9 +6,9 @@
 
 ## About Me
 
-I'm currently pursuing a degree in Computer Science at State University of Santa Cruz (UESC) and a Bachelor of Technology (B.Tech) in Applied Artificial Intelligence at the Pontifical Catholic University of Paraná (PUCPR).
+I'm currently pursuing a degree in Computer Science at the State University of Santa Cruz (UESC) and a degree in Computer Systems Analysis at the Pontifical Catholic University of Paraná (PUCPR).
 
-I have practical experience as a Full Stack Developer, proficient in integrating APIs, creating complex data structures, and developing customized solutions. I continually expand my knowledge in various technologies such as:
+I have practical experience as a Full Stack Developer, with proficiency in integrating APIs, designing complex data structures, and developing customized solutions. I continuously expand my knowledge in various technologies such as:
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="20"/> **Golang**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> **Python**
