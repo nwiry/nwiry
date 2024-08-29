@@ -6,9 +6,9 @@
 
 ## Sobre Mim
 
-Atualmente, estou cursando Bacharelado em Ciência da Computação pela Universidade Estadual de Santa Cruz (UESC) conjuntamente com o curso de Tecnólogo em Inteligência Artificial Aplicada pela Pontifícia Universidade Católica do Paraná (PUCPR).
+Atualmente estou cursando Ciência da Computação na Universidade Estadual de Santa Cruz (UESC) e Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica do Paraná (PUCPR).
 
-Tenho experiência prática como Desenvolvedor Full Stack, e proeficiência em integração de APIs, criação de estruturas de dados complexas e desenvolvimento de soluções personalizadas. Continuamente, expando meu conhecimento em várias tecnologias, como:
+Tenho experiência prática como Desenvolvedor Full Stack, com proficiência na integração de APIs, criação de estruturas de dados complexas e desenvolvimento de soluções personalizadas. Estou constantemente expandindo meu conhecimento em diversas tecnologias, como:
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="20"/> **Golang**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> **Python**
