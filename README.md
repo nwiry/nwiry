@@ -24,7 +24,7 @@ I have practical experience as a Full Stack Developer, with proficiency in integ
 - **API Integration:** RESTful APIs
 - **Version Control:** <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" width="20"/> Git, <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="20"/> GitHub, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="20"/> GitLab, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="20"/> BitBucket, etc.
 - **Cloud Computing & DevOps:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> Amazon Web Services (AWS), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="20"/> Google Cloud Platform (GCP), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="20"/> Microsoft Azure, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/> Docker, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="20"/> Kubernetes, etc
-- 
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diogo%20Cerqueira-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diogocerq)
